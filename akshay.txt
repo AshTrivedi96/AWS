@@ -15,4 +15,7 @@ D - Different states of file in GIT VCS are as follow
 
 3 - You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
+Answer 2 - already created this file, chnaged and modified content and then pulled it and now pusing it back.
+
+Answer 3 - Trying to create and merge branch.
 
