@@ -1,0 +1,18 @@
+Answer - 1 
+
+A - The main difference between the two classes is that Centralized VCSs keep the history of changes on a central server from which everyone requests the latest version of the work and pushes the latest changes to. This means that everyone sharing the server also shares everyone’s work. Sourceforge.net uses this type of versioning in their projects.
+
+B - Two Centralized version Control System are - CVS, Perforce, SVN.
+    two Distributed version control system are  - Git and Mercurial
+
+C- One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users.
+
+D - Different states of file in GIT VCS are as follow 
+
+1 - You modify files in your working tree.
+
+2 - You selectively stage just those changes you want to be part of your next commit, which adds only those changes to the staging area.
+
+3 - You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+
+
