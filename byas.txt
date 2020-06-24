@@ -1,2 +1,12 @@
-Hello from
-Byas
+1.Centralized VCSs keeps the history of changes on a central server so everyone sharing the server also shares everyone’s work. While Distributed VCS works locally, everyone’s copy the code in locally so that they do not necessarily have to be online to make changes to work. 
+
+2.Centralized VCSs: CVS, SVN 
+Distributed VCSs:  Git, Mercurial  
+
+3.Main difference between Git and other VCS is that git uses multiple repositories including a centralized repository and server, as well as some local repository.  This branching capability is free and easy to use. 
+
+4.	
+a.Checking status of file: git status
+b.adding file to a repository: git add blah.txt
+c.commit the changes we have made git commit: git commit -m “xyz commit” 
+
